@@ -17,4 +17,6 @@ allowlist; they cannot run arbitrary commands, remove packages, edit sudoers,
 manage services, or contact a network service.
 
 The complete privilege/path/dependency model is documented in the repository
-root's [SECURITY.md](../SECURITY.md).
+root's [SECURITY.md](https://github.com/cybercore-tech/omniscient/blob/main/SECURITY.md).
+Report security issues privately to
+[security@cybercoretech.net](mailto:security@cybercoretech.net).
